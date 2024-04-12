@@ -1,0 +1,20 @@
+{
+  "personal": [
+    {
+      "id": "53",
+      "nombre": "Frederic",
+      "genero": "femenino"
+    },
+    {
+      "id": "111",
+      "nombre": "Ana Frank",
+      "genero": "masculino"
+    },
+    {
+      "id": "555",
+      "nombre": " juan",
+      "genero": "masculino",
+      "propietarios":"juan, miguel"
+    }
+  ]
+}
